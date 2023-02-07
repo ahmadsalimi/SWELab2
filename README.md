@@ -16,3 +16,11 @@ A CLI tools to manage SUT network users and login to the network.
 ## Creating the `.gitignore` file
 
 ![](./screenshots/4-gitignore.png)
+
+## Adding the `.gitignore` file to a new feature branch
+
+![](./screenshots/5-gitignore-branch.png)
+
+## Adding the `requirements.txt` file to a new feature branch
+
+![](./screenshots/6-requirements-branch.png)
