@@ -30,6 +30,7 @@ setup(
         'console_scripts': [
             'sharifnet-adduser=sharifnet.adduser:main',
             'sharifnet-login=sharifnet.login:main',
+            'sharifnet-userlist=sharifnet.userlist:main',
         ],
     },
 )
