@@ -24,3 +24,11 @@ A CLI tools to manage SUT network users and login to the network.
 ## Adding the `requirements.txt` file to a new feature branch
 
 ![](./screenshots/6-requirements-branch.png)
+
+## Create a pull request
+
+![](./screenshots/7-pr.png)
+
+## Create a pull request with a merge conflict
+
+![](./screenshots/8-pr-conflict.png)
