@@ -32,3 +32,9 @@ A CLI tools to manage SUT network users and login to the network.
 ## Create a pull request with a merge conflict
 
 ![](./screenshots/8-pr-conflict.png)
+
+## Resolve the merge conflict and merge the pull request
+
+![](./screenshots/9-merge.png)
+![](./screenshots/10-conflict.png)
+![](./screenshots/11-pr-resolved.png)
